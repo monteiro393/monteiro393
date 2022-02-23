@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrew!
 - 👀 I’m interested in Gaming, Movies, Music, Math and Programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Git and Python
 - 📫 You can reach me via Instagram (@darkseid393)
 
 <!---
